@@ -1,0 +1,1 @@
+# jpa-calculated-field
