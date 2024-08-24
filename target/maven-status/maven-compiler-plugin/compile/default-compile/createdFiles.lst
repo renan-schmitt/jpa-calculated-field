@@ -1,0 +1,8 @@
+br/com/renanschmitt/medium/jpa_calculated_field/model/Person.class
+br/com/renanschmitt/medium/jpa_calculated_field/dtos/PersonDTO$PersonDTOBuilder.class
+br/com/renanschmitt/medium/jpa_calculated_field/api/PersonController.class
+br/com/renanschmitt/medium/jpa_calculated_field/dtos/PersonRequestBody.class
+br/com/renanschmitt/medium/jpa_calculated_field/JpaCalculatedFieldApplication.class
+br/com/renanschmitt/medium/jpa_calculated_field/repositories/PersonRepository.class
+br/com/renanschmitt/medium/jpa_calculated_field/services/PersonService.class
+br/com/renanschmitt/medium/jpa_calculated_field/dtos/PersonDTO.class
